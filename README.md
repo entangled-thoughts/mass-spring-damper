@@ -1,9 +1,9 @@
 # mass-spring-damper
 Simulation of mass-spring-damper system in JavaScript using [threejs](https://threejs.org/) library.
 
-Live demo is avaiable here: https://entangled-thoughts.com/ar/demos/mass-spring-damper/
+Live demo is available here: https://entangled-thoughts.com/ar/demos/mass-spring-damper/
 
-The easiest way to serve the page locally is to follow these instruction ([taken from threejs](https://threejs.org/docs/#manual/en/introduction/Installation)):
+The easiest way to serve the page locally is to follow these instructions ([taken from threejs](https://threejs.org/docs/#manual/en/introduction/Installation)):
 1. Install [Node.js](https://nodejs.org/).
 2. Install three.js and a build tool [Vite](https://vite.dev/), using a terminal in this project folder.
 ```bash
